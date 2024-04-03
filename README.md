@@ -1,2 +1,2 @@
 # mech-interp-r1
-Either going to tackle the MoE attributing each expert to a feature space or an easier Mech Interp problem from Neel nanda's list.
+Trying to find a circuit based off of comparative/opposite adjectives of two nouns in gpt-2 small.
